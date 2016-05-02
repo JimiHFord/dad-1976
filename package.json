@@ -1,0 +1,17 @@
+{
+  "name": "dad",
+  "version": "1.0.0",
+  "description": "Tool to collect and update graduating class information",
+  "author": "Jimi Ford <jimifordmail@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "gulp"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
